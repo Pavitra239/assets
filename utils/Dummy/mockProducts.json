@@ -1,0 +1,452 @@
+[
+  {
+    "name": "laptop",
+    "company": "dell",
+    "productImg": "http://dummyimage.com/227x100.png/dddddd/000000",
+    "department": "accounts",
+    "status": false,
+    "purchaseDate": "4/11/2023",
+    "assignedTo": "Basile"
+  },
+  {
+    "name": "computer",
+    "company": "lenevo",
+    "productImg": "http://dummyimage.com/201x100.png/ff4444/ffffff",
+    "department": "kitchen",
+    "status": true,
+    "purchaseDate": "2/8/2023",
+    "assignedTo": "Lek"
+  },
+  {
+    "name": "pendrive",
+    "company": "asus",
+    "productImg": "http://dummyimage.com/220x100.png/ff4444/ffffff",
+    "department": "accounts",
+    "status": true,
+    "purchaseDate": "1/13/2023",
+    "assignedTo": "Chilton"
+  },
+  {
+    "name": "cpu",
+    "company": "apple",
+    "productImg": "http://dummyimage.com/107x100.png/ff4444/ffffff",
+    "department": "kitchen",
+    "status": true,
+    "purchaseDate": "1/6/2023",
+    "assignedTo": "Reynard"
+  },
+  {
+    "name": "mouse",
+    "company": "dell",
+    "productImg": "http://dummyimage.com/187x100.png/dddddd/000000",
+    "department": "kitchen",
+    "status": false,
+    "purchaseDate": "11/29/2022",
+    "assignedTo": "Trefor"
+  },
+  {
+    "name": "laptop",
+    "company": "asus",
+    "productImg": "http://dummyimage.com/105x100.png/ff4444/ffffff",
+    "department": "accounts",
+    "status": true,
+    "purchaseDate": "8/5/2023",
+    "assignedTo": "Alric"
+  },
+  {
+    "name": "pendrive",
+    "company": "apple",
+    "productImg": "http://dummyimage.com/193x100.png/dddddd/000000",
+    "department": "kitchen",
+    "status": false,
+    "purchaseDate": "5/7/2023",
+    "assignedTo": "Urbanus"
+  },
+  {
+    "name": "mouse",
+    "company": "asus",
+    "productImg": "http://dummyimage.com/109x100.png/cc0000/ffffff",
+    "department": "decoration",
+    "status": false,
+    "purchaseDate": "4/27/2023",
+    "assignedTo": "Heinrick"
+  },
+  {
+    "name": "monitor",
+    "company": "asus",
+    "productImg": "http://dummyimage.com/221x100.png/ff4444/ffffff",
+    "department": "decoration",
+    "status": false,
+    "purchaseDate": "9/12/2023",
+    "assignedTo": "Francois"
+  },
+  {
+    "name": "monitor",
+    "company": "asus",
+    "productImg": "http://dummyimage.com/205x100.png/5fa2dd/ffffff",
+    "department": "kitchen",
+    "status": false,
+    "purchaseDate": "7/20/2023",
+    "assignedTo": "Aurthur"
+  },
+  {
+    "name": "monitor",
+    "company": "lenevo",
+    "productImg": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
+    "department": "accounts",
+    "status": true,
+    "purchaseDate": "3/18/2023",
+    "assignedTo": "Artie"
+  },
+  {
+    "name": "keyboard",
+    "company": "dell",
+    "productImg": "http://dummyimage.com/216x100.png/5fa2dd/ffffff",
+    "department": "kitchen",
+    "status": true,
+    "purchaseDate": "10/16/2022",
+    "assignedTo": "Forrest"
+  },
+  {
+    "name": "laptop",
+    "company": "lenevo",
+    "productImg": "http://dummyimage.com/174x100.png/5fa2dd/ffffff",
+    "department": "kitchen",
+    "status": false,
+    "purchaseDate": "2/21/2023",
+    "assignedTo": "Sheridan"
+  },
+  {
+    "name": "computer",
+    "company": "apple",
+    "productImg": "http://dummyimage.com/113x100.png/dddddd/000000",
+    "department": "decoration",
+    "status": true,
+    "purchaseDate": "6/2/2023",
+    "assignedTo": "Sayer"
+  },
+  {
+    "name": "monitor",
+    "company": "apple",
+    "productImg": "http://dummyimage.com/111x100.png/5fa2dd/ffffff",
+    "department": "accounts",
+    "status": false,
+    "purchaseDate": "5/27/2023",
+    "assignedTo": "Hercules"
+  },
+  {
+    "name": "keyboard",
+    "company": "dell",
+    "productImg": "http://dummyimage.com/249x100.png/cc0000/ffffff",
+    "department": "decoration",
+    "status": false,
+    "purchaseDate": "3/3/2023",
+    "assignedTo": "Adolphus"
+  },
+  {
+    "name": "keyboard",
+    "company": "asus",
+    "productImg": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+    "department": "kitchen",
+    "status": false,
+    "purchaseDate": "10/3/2022",
+    "assignedTo": "Bernarr"
+  },
+  {
+    "name": "laptop",
+    "company": "apple",
+    "productImg": "http://dummyimage.com/149x100.png/5fa2dd/ffffff",
+    "department": "kitchen",
+    "status": false,
+    "purchaseDate": "8/2/2023",
+    "assignedTo": "Arnoldo"
+  },
+  {
+    "name": "keyboard",
+    "company": "dell",
+    "productImg": "http://dummyimage.com/132x100.png/dddddd/000000",
+    "department": "decoration",
+    "status": false,
+    "purchaseDate": "4/27/2023",
+    "assignedTo": "Grant"
+  },
+  {
+    "name": "pendrive",
+    "company": "apple",
+    "productImg": "http://dummyimage.com/216x100.png/5fa2dd/ffffff",
+    "department": "kitchen",
+    "status": false,
+    "purchaseDate": "4/30/2023",
+    "assignedTo": "Benyamin"
+  },
+  {
+    "name": "cpu",
+    "company": "hp",
+    "productImg": "http://dummyimage.com/211x100.png/ff4444/ffffff",
+    "department": "decoration",
+    "status": true,
+    "purchaseDate": "5/1/2023",
+    "assignedTo": "Noah"
+  },
+  {
+    "name": "cpu",
+    "company": "hp",
+    "productImg": "http://dummyimage.com/122x100.png/5fa2dd/ffffff",
+    "department": "accounts",
+    "status": false,
+    "purchaseDate": "12/14/2022",
+    "assignedTo": "Sauncho"
+  },
+  {
+    "name": "mouse",
+    "company": "dell",
+    "productImg": "http://dummyimage.com/187x100.png/5fa2dd/ffffff",
+    "department": "decoration",
+    "status": true,
+    "purchaseDate": "9/3/2023",
+    "assignedTo": "Boy"
+  },
+  {
+    "name": "mouse",
+    "company": "lenevo",
+    "productImg": "http://dummyimage.com/151x100.png/5fa2dd/ffffff",
+    "department": "decoration",
+    "status": false,
+    "purchaseDate": "11/5/2022",
+    "assignedTo": "Chester"
+  },
+  {
+    "name": "monitor",
+    "company": "asus",
+    "productImg": "http://dummyimage.com/173x100.png/ff4444/ffffff",
+    "department": "accounts",
+    "status": true,
+    "purchaseDate": "11/20/2022",
+    "assignedTo": "Frannie"
+  },
+  {
+    "name": "laptop",
+    "company": "apple",
+    "productImg": "http://dummyimage.com/153x100.png/dddddd/000000",
+    "department": "accounts",
+    "status": true,
+    "purchaseDate": "6/10/2023",
+    "assignedTo": "Ransom"
+  },
+  {
+    "name": "mouse",
+    "company": "dell",
+    "productImg": "http://dummyimage.com/125x100.png/ff4444/ffffff",
+    "department": "accounts",
+    "status": false,
+    "purchaseDate": "10/26/2022",
+    "assignedTo": "Hurley"
+  },
+  {
+    "name": "cpu",
+    "company": "lenevo",
+    "productImg": "http://dummyimage.com/216x100.png/dddddd/000000",
+    "department": "decoration",
+    "status": true,
+    "purchaseDate": "9/23/2023",
+    "assignedTo": "Evered"
+  },
+  {
+    "name": "mouse",
+    "company": "dell",
+    "productImg": "http://dummyimage.com/212x100.png/dddddd/000000",
+    "department": "decoration",
+    "status": true,
+    "purchaseDate": "4/23/2023",
+    "assignedTo": "Kain"
+  },
+  {
+    "name": "pendrive",
+    "company": "hp",
+    "productImg": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+    "department": "accounts",
+    "status": false,
+    "purchaseDate": "5/28/2023",
+    "assignedTo": "Geoff"
+  },
+  {
+    "name": "hard drive",
+    "company": "apple",
+    "productImg": "http://dummyimage.com/169x100.png/dddddd/000000",
+    "department": "decoration",
+    "status": false,
+    "purchaseDate": "4/13/2023",
+    "assignedTo": "Kirk"
+  },
+  {
+    "name": "monitor",
+    "company": "lenevo",
+    "productImg": "http://dummyimage.com/122x100.png/cc0000/ffffff",
+    "department": "kitchen",
+    "status": false,
+    "purchaseDate": "2/19/2023",
+    "assignedTo": "Alasdair"
+  },
+  {
+    "name": "keyboard",
+    "company": "apple",
+    "productImg": "http://dummyimage.com/223x100.png/dddddd/000000",
+    "department": "decoration",
+    "status": false,
+    "purchaseDate": "6/18/2023",
+    "assignedTo": "Ryley"
+  },
+  {
+    "name": "pendrive",
+    "company": "lenevo",
+    "productImg": "http://dummyimage.com/162x100.png/cc0000/ffffff",
+    "department": "decoration",
+    "status": true,
+    "purchaseDate": "6/17/2023",
+    "assignedTo": "Doy"
+  },
+  {
+    "name": "keyboard",
+    "company": "hp",
+    "productImg": "http://dummyimage.com/187x100.png/cc0000/ffffff",
+    "department": "decoration",
+    "status": true,
+    "purchaseDate": "10/14/2022",
+    "assignedTo": "Ferrel"
+  },
+  {
+    "name": "monitor",
+    "company": "hp",
+    "productImg": "http://dummyimage.com/123x100.png/5fa2dd/ffffff",
+    "department": "accounts",
+    "status": true,
+    "purchaseDate": "3/4/2023",
+    "assignedTo": "Valentin"
+  },
+  {
+    "name": "computer",
+    "company": "hp",
+    "productImg": "http://dummyimage.com/223x100.png/dddddd/000000",
+    "department": "decoration",
+    "status": false,
+    "purchaseDate": "11/29/2022",
+    "assignedTo": "Valentino"
+  },
+  {
+    "name": "keyboard",
+    "company": "dell",
+    "productImg": "http://dummyimage.com/132x100.png/dddddd/000000",
+    "department": "accounts",
+    "status": true,
+    "purchaseDate": "5/11/2023",
+    "assignedTo": "Aldis"
+  },
+  {
+    "name": "cpu",
+    "company": "hp",
+    "productImg": "http://dummyimage.com/103x100.png/cc0000/ffffff",
+    "department": "decoration",
+    "status": false,
+    "purchaseDate": "2/11/2023",
+    "assignedTo": "Paxon"
+  },
+  {
+    "name": "keyboard",
+    "company": "asus",
+    "productImg": "http://dummyimage.com/142x100.png/cc0000/ffffff",
+    "department": "decoration",
+    "status": true,
+    "purchaseDate": "3/19/2023",
+    "assignedTo": "Haywood"
+  },
+  {
+    "name": "mouse",
+    "company": "apple",
+    "productImg": "http://dummyimage.com/210x100.png/ff4444/ffffff",
+    "department": "decoration",
+    "status": true,
+    "purchaseDate": "5/1/2023",
+    "assignedTo": "Wallas"
+  },
+  {
+    "name": "hard drive",
+    "company": "asus",
+    "productImg": "http://dummyimage.com/200x100.png/dddddd/000000",
+    "department": "kitchen",
+    "status": true,
+    "purchaseDate": "3/25/2023",
+    "assignedTo": "Albie"
+  },
+  {
+    "name": "pendrive",
+    "company": "dell",
+    "productImg": "http://dummyimage.com/224x100.png/ff4444/ffffff",
+    "department": "accounts",
+    "status": true,
+    "purchaseDate": "10/27/2022",
+    "assignedTo": "Jamil"
+  },
+  {
+    "name": "pendrive",
+    "company": "asus",
+    "productImg": "http://dummyimage.com/103x100.png/5fa2dd/ffffff",
+    "department": "kitchen",
+    "status": true,
+    "purchaseDate": "1/18/2023",
+    "assignedTo": "Gilbert"
+  },
+  {
+    "name": "cpu",
+    "company": "hp",
+    "productImg": "http://dummyimage.com/182x100.png/cc0000/ffffff",
+    "department": "accounts",
+    "status": true,
+    "purchaseDate": "3/10/2023",
+    "assignedTo": "Calv"
+  },
+  {
+    "name": "monitor",
+    "company": "hp",
+    "productImg": "http://dummyimage.com/143x100.png/5fa2dd/ffffff",
+    "department": "kitchen",
+    "status": false,
+    "purchaseDate": "10/5/2022",
+    "assignedTo": "Kippy"
+  },
+  {
+    "name": "keyboard",
+    "company": "dell",
+    "productImg": "http://dummyimage.com/222x100.png/cc0000/ffffff",
+    "department": "accounts",
+    "status": false,
+    "purchaseDate": "10/20/2022",
+    "assignedTo": "Aloin"
+  },
+  {
+    "name": "mouse",
+    "company": "apple",
+    "productImg": "http://dummyimage.com/242x100.png/dddddd/000000",
+    "department": "kitchen",
+    "status": true,
+    "purchaseDate": "6/7/2023",
+    "assignedTo": "Rufus"
+  },
+  {
+    "name": "mouse",
+    "company": "apple",
+    "productImg": "http://dummyimage.com/222x100.png/ff4444/ffffff",
+    "department": "accounts",
+    "status": true,
+    "purchaseDate": "9/15/2023",
+    "assignedTo": "Westbrooke"
+  },
+  {
+    "name": "computer",
+    "company": "hp",
+    "productImg": "http://dummyimage.com/207x100.png/ff4444/ffffff",
+    "department": "accounts",
+    "status": true,
+    "purchaseDate": "6/22/2023",
+    "assignedTo": "Goober"
+  }
+]
